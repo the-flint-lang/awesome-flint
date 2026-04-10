@@ -58,13 +58,6 @@ Reusable Flint libraries.
 | ------------ | ----------- | ----- |
 | *(none yet)* |             |       |
 
----
-
-## Resources
-
-| Project                                        | Description                             | Stars                                                      |
-| ---------------------------------------------- | --------------------------------------- | ---------------------------------------------------------- |
-| [ffetch](https://github.com/lucaas-d3v/ffetch) | System fetch tool written 100% in Flint | ![](https://img.shields.io/github/stars/lucaas-d3v/ffetch) |
 
 ---
 
